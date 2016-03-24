@@ -1,2 +1,2 @@
-Git add  is a distributed version control system.
-Git ne is free software
+a Git add  is a distributed version control system.
+b Git ne is free software
